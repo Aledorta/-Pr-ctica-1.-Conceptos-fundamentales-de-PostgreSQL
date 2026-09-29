@@ -350,5 +350,7 @@ sudo -u postgres psql
 
 # 10. Exportación e importación de datos
   * ### Exportar el contenido de la talla libros a un archivo CSV
-    ![Texto alternativo](url-o-ruta-de-la-imagen)
+    ![Texto alternativo](https://github.com/Aledorta/-Pr-ctica-1.-Conceptos-fundamentales-de-PostgreSQL/blob/main/Captura%20de%20pantalla%202026-09-29%20104731.png)
   * ### Importar datos adicionales de autores desde un archivo CDV externo
+    ![Texto alternativo](https://github.com/Aledorta/-Pr-ctica-1.-Conceptos-fundamentales-de-PostgreSQL/blob/main/Captura%20de%20pantalla%202026-09-29%20105107.png)
+    ![Texto alternativo](https://github.com/Aledorta/-Pr-ctica-1.-Conceptos-fundamentales-de-PostgreSQL/blob/main/Captura%20de%20pantalla%202026-09-29%20105307.png)
